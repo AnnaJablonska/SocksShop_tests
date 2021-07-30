@@ -1,4 +1,4 @@
-# Socks_shop_test: Login, Register and Checkout tests
+# Socks_shop_test: login, register and checkout tests
 
 
 # Project Description:
