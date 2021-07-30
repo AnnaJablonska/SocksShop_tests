@@ -1,0 +1,13 @@
+{
+    "baseUrl": "http://localhost/",
+    "viewportWidth": 1350,
+    "viewportHeight": 1000,
+    "failOnStatusCode": false,
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout": 20000,
+    "env": {
+      "homePageUrl": "http://localhost/"
+  }
+  
+  }
+  
