@@ -15,8 +15,8 @@ Written in Typescript
 
 **RUN TESTS**:
 
-1. Clone repository
-2. Go to project folder and run commands:
+1. clone git repository
+2. go to project folder and run commands:
 
   - npm install
   
