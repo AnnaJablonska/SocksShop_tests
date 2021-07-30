@@ -7,12 +7,12 @@ Written in Typescript
 http://localhost
 
 # Test Setup:
-Go to  https://microservices-demo.github.io/docs/quickstart.html and the follow instruction
 
 **Tools to instal:**
+- docker (go to  https://microservices-demo.github.io/docs/quickstart.html and the follow instruction)
 - docker-compose 
 - nodejs
--- npm
+- npm
 
 **RUN TESTS**:
 
