@@ -10,9 +10,9 @@ http://localhost
 Go to  https://microservices-demo.github.io/docs/quickstart.html and the follow instruction
 
 **Tools to instal:**
-docker-compose
-nodejs
-npm
+- docker-compose 
+- nodejs
+-- npm
 
 **RUN TESTS**:
 
