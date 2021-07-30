@@ -3,8 +3,8 @@
 
 # Project Description:
 Project setup with Cypress.io, Docker and windows 10
-Written in Typescript
-http://localhost
+/ Written in Typescript
+/ http://localhost
 
 # Test Setup:
 
