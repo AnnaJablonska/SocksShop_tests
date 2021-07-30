@@ -19,11 +19,11 @@ npm
 1. Clone repository
 2. Go to project folder and run commands:
 
-  npm install
+  - npm install
   
-  npm run cy:open - open cypress runner
+  - npm run cy:open - open cypress runner
   
-  npm run cy:test - run test without gui
+  - npm run cy:test - run test without GUI
 
 
 
